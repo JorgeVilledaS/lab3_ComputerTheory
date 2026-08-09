@@ -1,4 +1,6 @@
 # Laboratorio No. 3 – Ejercicio 1: Infix → Postfix → AST
+Jorge Villeda 24932
+Lázaro Díaz 24713
 
 Este programa toma expresiones regulares en notación **infix**, las convierte a
 **postfix** usando el algoritmo de **Shunting Yard**, y con esa notación postfix
@@ -82,4 +84,4 @@ El programa imprime en consola, para cada expresión:
 
 ## Video
 
-[Enlace al video de YouTube (no listado)](https://www.youtube.com/watch?v=vsAXXi5x8RA)
+[Enlace al video de YouTube](https://www.youtube.com/watch?v=vsAXXi5x8RA)
